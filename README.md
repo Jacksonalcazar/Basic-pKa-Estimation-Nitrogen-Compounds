@@ -1,6 +1,8 @@
 # Prediction of Basic pKa Values in Nitrogen Compounds
 This GitHub repository provides a user-friendly guide for Windows users to predict basic pKa values in nitrogen compounds, utilizing ORCA and Multiwfn. It includes simple instructions for setup, structure preparation, and calculations, with additional steps for large structures on Linux systems.
 
+NOTE: This script is supported in the following article https://doi.org/10.1186/s13321-023-00763-3. If this tool is used, please cite article.
+
 ## Getting Started
 
 Download and decompress all required files to your preferred location, referred to as the "main folder." The folder includes instructions for installing necessary programs like ORCA, Multiwfn, and Python. You will also need a molecular structure creator and editor, as outlined in the "Molecular visualization software" document.
